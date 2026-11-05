@@ -2,8 +2,8 @@
 
 ### 👋🏼 Hi, I'm Plat Ilich
 
-I'm writing a code.<br>
-`Python` • `HTML/CSS` • `JS (a little)`
+I'm writing code.<br>
+`Python` • `Django` • `Aiogram` • `HTML/CSS`
 
 ✨ [I’m at X](https://x.com/platilich)
 
