@@ -16,9 +16,5 @@
   <img src="https://img.shields.io/badge/Follow-@platilich-1DA1F2?style=flat&logo=x&logoColor=white" />
 </a>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=platilich&label=Visitors&color=0e75b6&style=flat" />
-
-
 
 </div>
